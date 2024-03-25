@@ -1,8 +1,10 @@
 @charset "UTF-8"
-{ 
-    body
+
+body
+{
     background-color: #ADD8E6;
     color: #ADD8E6;
     font-size: 12 pt;
     font-family: arial;
+    text-align: center;
 }
