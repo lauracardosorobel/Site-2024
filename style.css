@@ -2,9 +2,10 @@
 
 body
 {
-    background-color: #black;
+    background-color: linear-gradient (to right, blue, red);
     color: #red;
     font-size: 12 pt;
     font-family: arial;
     text-align: center;
 }
+
