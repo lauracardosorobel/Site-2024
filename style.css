@@ -2,7 +2,7 @@
 
 body
 {
-    background-color: linear-gradient (to right, blue, red);
+    background-color: linear-gradient (to right, #azul, #preto);
     color: #red;
     font-size: 12 pt;
     font-family: arial;
