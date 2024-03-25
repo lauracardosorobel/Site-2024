@@ -1,11 +1,18 @@
 @charset "UTF-8";
 
-body
+body 
 {
-    background-color: linear-gradient (to right, #azul, #preto);
-    color: #red;
-    font-size: 12 pt;
-    font-family: arial;
-    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgba(255, 188, 133, 0.966);
+    font-size: 12pt;
+    font-family: Arial;
 }
 
+h1
+{
+    color: rgb(255, 180, 93);
+}
+
+.container {
+    display: flex;
+  }
