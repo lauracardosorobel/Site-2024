@@ -7,6 +7,8 @@ body
     color: rgb(255, 188, 133);
     font-size: 12pt;
     font-family: Arial;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 h1
