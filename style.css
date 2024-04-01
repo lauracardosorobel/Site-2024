@@ -4,7 +4,7 @@ body
 {
     text-align: justify;
     background: linear-gradient(to bottom, #b9c7ec, #6489ec, #2b20c0);
-    color: rgb(255, 188, 133);
+    color: #080808;
     font-size: 12pt;
     font-family: Arial;
     margin-right: 40px;
@@ -13,7 +13,11 @@ body
 
 h1
 {
-    color: rgb(255, 180, 93);
+    color: #080808;
+}
+
+a{
+    text-decoration: none;
 }
 
 .container {
